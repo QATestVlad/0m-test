@@ -10,3 +10,7 @@ Second commit for edit/edge testing.
 ## Section C
 
 Third commit for removed-from-PR + empty-save repro.
+
+## Section D
+
+Commit to be removed from PR (rebase to new SHA).
